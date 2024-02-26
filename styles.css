@@ -169,6 +169,17 @@ nav {
   font-size: 3rem;
   text-align: center;
 }
+.header__content h2 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  text-align: center;
+}
+.header__content h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  text-align: center;
+
+}
 
 .header__content .section__description {
   margin-bottom: 2rem;
