@@ -174,7 +174,7 @@ nav {
   font-size: 3rem;
   text-align: center;
 }
-.header__content h1 {
+.header__content h3 {
   margin-bottom: 1rem;
   font-size: 3rem;
   text-align: center;
@@ -438,6 +438,17 @@ nav {
   }
 
   .header__content h1 {
+    font-size: 6rem;
+    line-height: 6rem;
+    text-align: left;
+  }
+  
+ .header__content h2 {
+    font-size: 6rem;
+    line-height: 6rem;
+    text-align: left;
+ }
+  .header__content h3 {
     font-size: 6rem;
     line-height: 6rem;
     text-align: left;
